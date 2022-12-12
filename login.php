@@ -9,7 +9,7 @@
             header('Location:home.php');
         }
         ?>
-		<title>Đăng Nhập | Phần mềm hổ trợ thi trắc nghiệm</title>
+		<title>Đăng Nhập || Phần mềm hổ trợ thi trắc nghiệm</title>
 	</head>
 
 	<body id='login-body' class="bg-light">
